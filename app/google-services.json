@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1050979713243",
+    "firebase_url": "https://asfaltae-b1e6e.firebaseio.com",
+    "project_id": "asfaltae-b1e6e",
+    "storage_bucket": "asfaltae-b1e6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050979713243:android:e99581393ae37344818cfe",
+        "android_client_info": {
+          "package_name": "com.asfaltae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050979713243-c77n6g4tdgr7jcs6ealu76kbosvlrunf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asfaltae",
+            "certificate_hash": "5948994c8623aab880dea900661673b75836f1cd"
+          }
+        },
+        {
+          "client_id": "1050979713243-2udigsfobbskgv1jvoe8hnqqmhs3lbiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVm9LNAF7-Qkkwsd44DnP3SetqbPo_hmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050979713243-2udigsfobbskgv1jvoe8hnqqmhs3lbiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
